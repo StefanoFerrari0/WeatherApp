@@ -7,11 +7,13 @@ Seguí las instrucciones para configurar el entorno de desarrollo y comenzar a u
 1. Crea un archivo en la carpeta raíz llamado `.env.local`.
 2. Completa las siguientes variables de entorno en el archivo `.env.local` con los valores correspondientes:
 
-`VITE_WEATHER_API_KEY=
+```
+VITE_WEATHER_API_KEY=
 VITE_PORT_FRONTEND=3000
 VITE_PORT_BACKEND=5000
 VITE_MONGODB_URL=
-VITE_LIMIT_HISTORY=5`
+VITE_LIMIT_HISTORY=5
+```
 
 En el aula de Google Classroom en el TPN2 se encuentra un archivo para rellenar las variables que estén vacías.
 
