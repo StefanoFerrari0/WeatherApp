@@ -1,0 +1,34 @@
+body {
+  height: 100%;
+}
+
+#root {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error {
+  margin-left: 10px;
+}
+
+.history {
+  margin-left: 10px;
+  display: block;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+article {
+  margin-top: 20px;
+}
